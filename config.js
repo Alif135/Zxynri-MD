@@ -42,8 +42,8 @@ global.fotonya6 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini gant
 global.fotonya7 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
 global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto session
 global.donasi = 'https://telegra.ph/file/c171460c1e60d22ea379e.jpg' //ganti pakai poto payment atau apa
-global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
+global.lolkey = '1cf85d7d6a5567ce855d0e55' //biar mudah ngegantinya semisal apikeynya expired:v
+global.zenzkey = 'f684421baa' //ganti jadi apikey lu kalau expired
 global.wm = '© Khalif'
 global.watermark = wm
 global.wm2 = 'ᯤ creator by Khalif'
@@ -97,7 +97,7 @@ global.APIKeys = { // APIKey Here
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
+  'https://zekais-api.herokuapp.com': 'CpGoiPJS',
   'https://api.lolhuman.xyz': 'Deffbotz',
 }
 
